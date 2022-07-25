@@ -14,7 +14,7 @@ After everthing is done, the user has the option to complete their form or add a
 Here is a step by step [Tutorial](https://drive.google.com/file/d/1QfEocpcKcxpLdEG1eS85gomjwhFskX9c/view)
 
 ## Resources 
-* [Screencastify]
+* [Screencastify](https://www.screencastify.com/)
 
 
 
